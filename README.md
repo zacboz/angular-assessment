@@ -22,8 +22,8 @@
  All the styles are completed for you already so you'll just need to display the data in the right spot. LOOK FOR COMMENTS.
  
  ``6``
- Show all the products on the shop.html page using your product directive.
-  
+ Replace the product skeleton located in shop.html with your product directive and use that to show all the products.  
+ 
  ``7`` 
  After your data is displaying correctly you'll need to get the product-details view configured.
  In your routes file add a route called details. This route is going to have an id being passed in. The url will look like this detail/:id.
